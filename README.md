@@ -23,7 +23,7 @@ A simple Pomodoro timer application built using Python's Tkinter library.
 
 ## Installation
 
-No installation required. Simply clone the repository and run the `pomodoro.py` script.
+No installation required. Simply clone the repository and run the `main.py` script.
 
 ```bash
 git clone https://github.com/amnullh/Pomodoro-Timer.git
